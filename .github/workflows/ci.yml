@@ -13,3 +13,8 @@ jobs:
         uses: vgaidarji/android-github-actions-build@v1.0.1
         with:
           args: "./gradlew assembleDebug"
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Artifact
+          path: build/
