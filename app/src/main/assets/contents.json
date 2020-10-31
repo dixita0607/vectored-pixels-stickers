@@ -7,7 +7,7 @@
       "name": "Inktober 2020",
       "publisher": "vectored.pixels",
       "tray_image_file": "tray.png",
-      "image_data_version":"1",
+      "image_data_version":"2",
       "avoid_cache":false,
       "publisher_email":"vectored.pixels@gmail.com",
       "publisher_website": "",
@@ -15,16 +15,44 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "capibara.webp",
-          "emojis": ["🐭","🐁","☺️"]
+          "image_file": "booked.webp",
+          "emojis": ["📚", "📒", "📖"]
         },
         {
-          "image_file": "hug.webp",
+          "image_file": "chill.webp",
+          "emojis": ["🛀", "🎧", "🍻"]
+        },
+        {
+          "image_file": "cutiebara.webp",
+          "emojis": ["👩‍❤️‍👨", "🥰", "🤗"]
+        },
+        {
+          "image_file": "dog.webp",
+          "emojis": ["🐶", "🦮", "🐩"]
+        },
+        {
+          "image_file": "hugs.webp",
           "emojis": ["🤗", "👯‍♀️"]
         },
         {
+          "image_file": "icant.webp",
+          "emojis": ["😞", "😴", "💤"]
+        },
+        {
+          "image_file": "totoro.webp",
+          "emojis": ["🐨", "😄", "😕"]
+        },
+        {
+          "image_file": "ughh.webp",
+          "emojis": ["🙄", "😴", "🤕"]
+        },
+        {
+          "image_file": "wonderful.webp",
+          "emojis": ["🦸‍♀️", "💁‍♀️", "👸"]
+        },
+        {
           "image_file": "yoga.webp",
-          "emojis": ["🧘‍♀️","🧘‍♂️"]
+          "emojis": ["🧘‍♀️", "🧘‍♂️", "😌"]
         }
       ]
     }
